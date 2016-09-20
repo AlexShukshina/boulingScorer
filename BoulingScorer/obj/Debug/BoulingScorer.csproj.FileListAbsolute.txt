@@ -1,0 +1,18 @@
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\LinqLearning\LinqLearning\bin\Debug\LinqLearning.exe.config
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\LinqLearning\LinqLearning\bin\Debug\LinqLearning.exe
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\LinqLearning\LinqLearning\bin\Debug\LinqLearning.pdb
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\LinqLearning\LinqLearning\obj\Debug\BoulingScorer.csprojResolveAssemblyReference.cache
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\LinqLearning\LinqLearning\obj\Debug\LinqLearning.exe
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\LinqLearning\LinqLearning\obj\Debug\LinqLearning.pdb
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\BoulingScorer\BoulingScorer\bin\Debug\BoulingScorer.exe.config
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\BoulingScorer\BoulingScorer\bin\Debug\BoulingScorer.exe
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\BoulingScorer\BoulingScorer\bin\Debug\BoulingScorer.pdb
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\BoulingScorer\BoulingScorer\obj\Debug\BoulingScorer.csprojResolveAssemblyReference.cache
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\BoulingScorer\BoulingScorer\obj\Debug\BoulingScorer.exe
+C:\Users\rodionova\Documents\Visual Studio 2015\Projects\BoulingScorer\BoulingScorer\obj\Debug\BoulingScorer.pdb
+E:\GitHub\BoulingScorer\BoulingScorer\bin\Debug\BoulingScorer.exe.config
+E:\GitHub\BoulingScorer\BoulingScorer\obj\Debug\BoulingScorer.exe
+E:\GitHub\BoulingScorer\BoulingScorer\obj\Debug\BoulingScorer.pdb
+E:\GitHub\BoulingScorer\BoulingScorer\bin\Debug\BoulingScorer.exe
+E:\GitHub\BoulingScorer\BoulingScorer\bin\Debug\BoulingScorer.pdb
+E:\GitHub\BoulingScorer\BoulingScorer\obj\Debug\BoulingScorer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\rodionova\documents\visual studio 2015\Projects\LinqLearning\LinqLearning\bin\Debug\LinqLearning.exe.config
+C:\Users\rodionova\documents\visual studio 2015\Projects\LinqLearning\LinqLearning\bin\Debug\LinqLearning.exe
+C:\Users\rodionova\documents\visual studio 2015\Projects\LinqLearning\LinqLearning\bin\Debug\LinqLearning.pdb
+C:\Users\rodionova\documents\visual studio 2015\Projects\LinqLearning\LinqLearning\obj\Debug\LinqLearning.csprojResolveAssemblyReference.cache
+C:\Users\rodionova\documents\visual studio 2015\Projects\LinqLearning\LinqLearning\obj\Debug\LinqLearning.exe
+C:\Users\rodionova\documents\visual studio 2015\Projects\LinqLearning\LinqLearning\obj\Debug\LinqLearning.pdb
